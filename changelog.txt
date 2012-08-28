@@ -1,3 +1,6 @@
+Version 0.6.5.1:
+	- Removed use of tvshowlinkepisode database table as appears to have been deprecated
+
 Version 0.6.5:
     - Changed the logic for pausing to not treat it as a stop in the video
     - Fixed problem where connections to trakt were closed before readin the responce
